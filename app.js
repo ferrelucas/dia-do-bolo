@@ -12,5 +12,5 @@ app.listen(port, function(){
 })
 
 function isCakeDay() {
-	return new Date().getDate();
+	return new Date().getDay()+ " - " + new Date;
 }
