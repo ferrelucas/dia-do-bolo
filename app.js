@@ -23,7 +23,7 @@ function isCakeDay() {
 	if (perfectSquares.includes(day-1)) return "SIM! É dia de bolo!! Porque hoje é quadrado perfeito +1 !"
 	if (perfectCubics.includes(day-1)) return "Siim! É dia de BOLO! Porque hoje é dia CUBO perfeito +1 !!"
 	if (day == 1) return "SIM! hoje não é primo, mas me fala se tem jeito melhor de começar o mês?"
-	if (day == 6) return "hoje não é primo... mas bem que SEIS deviam comer um bolo..."
+	if (day == 6) return "hoje não é primo... mas bem que SEIS deviam comer um bolo... :troll:"
 
 	return "nao eh =/         Mas podia ser.... :cake:"
 }
