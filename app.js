@@ -11,7 +11,7 @@ app.listen(port, function(){
 	console.log("Server running on port "+port+"..")
 })
 
-var primeDays = [2, 3, 5, 7, 11, 13, 17, 19, 23, 27, 29, 31];
+var primeDays = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31];
 var perfectSquares = [4, 9, 25]
 var perfectCubics = [8, 27]
 
